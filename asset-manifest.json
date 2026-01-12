@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7918fc4e.css",
+    "main.js": "/static/js/main.da245b09.js",
+    "static/media/source-3.FBX": "/static/media/source-3.63c055c950b09981b826.FBX",
+    "static/media/env_source.hdr": "/static/media/env_source.06eb39d2d87638f9f160.hdr",
+    "static/media/pano-sky.jpg": "/static/media/pano-sky.6dea74b438169e178d83.jpg",
+    "static/media/banner.jpg": "/static/media/banner.0d437f87bb8213b380c5.jpg",
+    "static/media/ground.JPG": "/static/media/ground.5a0f8a17f65f83e226ef.JPG",
+    "index.html": "/index.html",
+    "main.7918fc4e.css.map": "/static/css/main.7918fc4e.css.map",
+    "main.da245b09.js.map": "/static/js/main.da245b09.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7918fc4e.css",
+    "static/js/main.da245b09.js"
+  ]
+}
